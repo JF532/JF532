@@ -1,6 +1,6 @@
 ## Fala dev, Filipe Peixoto aqui 👋🏽
 ### - Estudando atualmente JavaScript, CSS e HTML / currently studying JavaScript, CSS e HTML💻
-### - Primeiro período de Ciencia da Computação / First semester of Computer Science📚
+### - Terceiro período de Ciencia da Computação / Third semester of Computer Science📚
 
 <div>
   <a href="https://github.com/JF532">
