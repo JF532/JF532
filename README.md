@@ -1,5 +1,5 @@
 ## Fala dev, Filipe Peixoto aqui 👋🏽
-### - Estudando atualmente JavaScript, CSS e HTML / currently studying JavaScript, CSS e HTML💻
+### - Estudando atualmente React, Java e C / currently studying React, Java e C💻
 ### - Terceiro período de Ciencia da Computação / Third semester of Computer Science📚
 
 <div>
