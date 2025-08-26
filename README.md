@@ -1,6 +1,6 @@
 ## Fala dev, Filipe Peixoto aqui 👋🏽
 ### - Estudando atualmente React, Java e C / currently studying React, Java e C💻
-### - Terceiro período de Ciencia da Computação / Third semester of Computer Science📚
+### - Quarto período de Ciencia da Computação / Fourth semester of Computer Science📚
 
 <div>
   <a href="https://github.com/JF532">
