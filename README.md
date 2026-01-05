@@ -1,6 +1,6 @@
 ## Fala dev, Filipe Peixoto aqui 👋🏽
 ### - Estudando atualmente React, Java e C / currently studying React, Java e C💻
-### - Quarto período de Ciencia da Computação / Fourth semester of Computer Science📚
+### - Quinto período de Ciencia da Computação / Fifth semester of Computer Science📚
 
 
 <div style="display: inline_block"><br>
