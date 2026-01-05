@@ -2,11 +2,7 @@
 ### - Estudando atualmente React, Java e C / currently studying React, Java e C💻
 ### - Quarto período de Ciencia da Computação / Fourth semester of Computer Science📚
 
-<div>
-  <a href="https://github.com/JF532">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JF532&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JF532&layout=compact&langs_count=6&theme=synthwave"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
