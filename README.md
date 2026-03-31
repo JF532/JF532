@@ -1,5 +1,5 @@
 ## Fala dev, Filipe Peixoto aqui 👋🏽
-### - Estudando atualmente React, Java e C / currently studying React, Java e C💻
+### - Estudando atualmente Java, React e C / currently studying Java, React e C💻
 ### - Quinto período de Ciencia da Computação / Fifth semester of Computer Science📚
 
 
