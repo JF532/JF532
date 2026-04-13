@@ -15,7 +15,18 @@
   src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e4744rg1tmp5ayc2inde8rf0wr0zizzvw1knnt8njwn&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif programador" target="_blank">
 
   <br>
-  
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JF532&repo=RollTickets-Front&theme=tokyonight)](https://github.com/JF532/RollTickets-Front)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipee013&repo=RollTickets-api&theme=tokyonight)](https://github.com/Felipee013/RollTickets-api)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JF532&repo=Projeto-Lista-Pokemon&theme=tokyonight)](https://github.com/JF532/Projeto-Lista-Pokemon)
+
+</div>
+</div>
  <br>
  
   ### Segue abaixo meus meios de contato!📨
